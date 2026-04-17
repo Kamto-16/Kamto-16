@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Kam
+<p>
+  A full-stack developer very passionate about crafting aesthetic and user-friendly web apps for individuals, brands and organizations
+</p>
 
+## Skills & Languages
+#### FE
+ - HTML
+ - CSS
+ - BOOTSTRAP
+ - JAVASCRIPT
 
-**Kamto-16/Kamto-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### BE
+ - PHP
+ - SQL/MYSQL
+ - LARAVEL
 
-Here are some ideas to get you started:
+## TOOLS
+ - GIT
+ - GITHUB
+ - GITLAB
+ - BITBUCKET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### API TEST
+ - POSTMAN
+ - CURL
+
+```
+# PHP whoami.php
+ sprintf("hi, %s I'm a fullstack developer!", "Dev. Kam");
+
+```
 
