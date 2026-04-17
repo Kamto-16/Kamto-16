@@ -9,6 +9,7 @@
  - CSS
  - BOOTSTRAP
  - JAVASCRIPT
+ - JQUERY
 
 #### BE
  - PHP
@@ -16,6 +17,7 @@
  - LARAVEL
 
 ## TOOLS
+#### VCS
  - GIT
  - GITHUB
  - GITLAB
