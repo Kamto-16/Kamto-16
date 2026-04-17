@@ -3,7 +3,7 @@
   A full-stack developer very passionate about crafting aesthetic and user-friendly web apps for individuals, brands and organizations
 </p>
 
-## Skills & Languages
+## STACK
 #### FE
  - HTML
  - CSS
